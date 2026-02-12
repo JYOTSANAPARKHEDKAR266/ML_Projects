@@ -1,0 +1,6 @@
+{
+  "selected_model": "smote_random_forest",
+  "cv_pr_auc_baseline_logreg": 0.7415828113951903,
+  "cv_pr_auc_smote_random_forest": 0.8426983766210973,
+  "best_cv_pr_auc": 0.8426983766210973
+}
