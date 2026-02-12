@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project artifacts
+models/*.joblib
+models/*.pkl
+models/*.txt
+models/training_summary.json
+reports/metrics.json
+reports/figures/*.png
+
+# Data (keep raw data out of git if you want)
+data/raw/*.csv
+
+# IDE
+.vscode/
+.idea/
